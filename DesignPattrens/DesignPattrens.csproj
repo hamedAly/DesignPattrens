@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IDisplay.cs" />
+    <Compile Include="IObserver.cs" />
+    <Compile Include="ThirdPartyDisplay.cs" />
+    <Compile Include="StatisticsDisplay.cs" />
+    <Compile Include="ISubject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CurrentConditionsDisplay.cs" />
+    <Compile Include="WeatherData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
