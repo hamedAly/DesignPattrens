@@ -1,4 +1,4 @@
-﻿n using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +10,10 @@ namespace DesignPattrens
     {
         static void Main(string[] args)
         {
+
+            Shape circle = new Circle();
+            new CircleDecorator(circle).Draw();
+            Console.ReadKey();
         }
     }
 }
