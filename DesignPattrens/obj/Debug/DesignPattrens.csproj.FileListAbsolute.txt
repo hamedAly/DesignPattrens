@@ -1,0 +1,8 @@
+G:\My Drive\L e a r n\d e s i g i n   p a t t r e n\DesignPattrens\DesignPattrens\obj\Debug\DesignPattrens.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\L e a r n\d e s i g i n   p a t t r e n\DesignPattrens\DesignPattrens\obj\Debug\DesignPattrens.csproj.CoreCompileInputs.cache
+G:\My Drive\L e a r n\d e s i g i n   p a t t r e n\DesignPattrens\DesignPattrens\bin\Debug\DesignPattrens.exe.config
+G:\My Drive\L e a r n\d e s i g i n   p a t t r e n\DesignPattrens\DesignPattrens\bin\Debug\DesignPattrens.exe
+G:\My Drive\L e a r n\d e s i g i n   p a t t r e n\DesignPattrens\DesignPattrens\bin\Debug\DesignPattrens.pdb
+G:\My Drive\L e a r n\d e s i g i n   p a t t r e n\DesignPattrens\DesignPattrens\obj\Debug\DesignPattrens.exe
+G:\My Drive\L e a r n\d e s i g i n   p a t t r e n\DesignPattrens\DesignPattrens\obj\Debug\DesignPattrens.pdb
+G:\My Drive\L e a r n\d e s i g i n   p a t t r e n\DesignPattrens\DesignPattrens\obj\Debug\DesignPattrens.csproj.AssemblyReference.cache
